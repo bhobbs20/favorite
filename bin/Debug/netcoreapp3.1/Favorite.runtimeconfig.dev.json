@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/pigeon/.dotnet/store/|arch|/|tfm|",
+      "/Users/pigeon/.nuget/packages"
+    ]
+  }
+}
